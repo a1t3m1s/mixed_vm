@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1547045528 source:d:\documents\desktop\mixed_vm\commands.cpp
+	"commands.h"
+	"machine.h"
+
+1547404977 d:\documents\desktop\mixed_vm\commands.h
+	<iostream>
+	<typeinfo>
+	"utility.h"
+
+1547048298 d:\documents\desktop\mixed_vm\utility.h
+
+1547033318 d:\documents\desktop\mixed_vm\machine.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	"utility.h"
+	"commands.h"
+
+1547048328 source:d:\documents\desktop\mixed_vm\machine.cpp
+	"machine.h"
+
+1547047205 source:d:\documents\desktop\mixed_vm\main.cpp
+	<iostream>
+	<windows.h>
+	"utility.h"
+	"commands.h"
+	"machine.h"
+
+1547048328 source:d:\documents\desktop\vmachine\mixed_vm\machine.cpp
+	"machine.h"
+
+1547752860 d:\documents\desktop\vmachine\mixed_vm\machine.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	"utility.h"
+	"commands.h"
+
+1547578711 d:\documents\desktop\vmachine\mixed_vm\utility.h
+
+1547739971 d:\documents\desktop\vmachine\mixed_vm\commands.h
+	<iostream>
+	<typeinfo>
+	"utility.h"
+
+1547787936 source:d:\documents\desktop\vmachine\mixed_vm\main.cpp
+	<iostream>
+	<windows.h>
+	"utility.h"
+	"commands.h"
+	"machine.h"
+
+1547741965 source:d:\documents\desktop\vmachine\mixed_vm\commands.cpp
+	"commands.h"
+	"machine.h"
+
